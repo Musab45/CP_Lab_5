@@ -11,4 +11,5 @@ int main()
 		i++;
 	} while (i <= n);
 	cout << "\nFactorial of Number is: " << factorial;
+    return 0;
 }

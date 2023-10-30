@@ -8,4 +8,5 @@ int main()
 		cout << i << endl;
 		i--;
 	} while (i >= 1);
+	return 0;
 }
